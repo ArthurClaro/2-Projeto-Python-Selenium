@@ -1,5 +1,6 @@
+![Captura de tela 2023-08-22 103340](https://github.com/ArthurClaro/2-Projeto-Python-Selenium/assets/124170421/e78f52de-ea95-41cf-9d71-bba6f7cb5382)
 # Projeto Automação Web - Busca de Preços -- Selenium
-
+Vídeo : https://www.linkedin.com/posts/arthur-claro-dev_python-empresas-vendasonline-activity-7099743973941911552-QjIj?utm_source=share&utm_medium=member_desktop
 ### Objetivo: treinar um projeto em que a gente tenha que usar automações web com `Selenium` para buscar as informações que precisamos
 
 ### Como vai funcionar:
